@@ -200,6 +200,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--black);
   background-color: var(--creamy);
+  cursor: pointer;
 }
 .btn-item {
   list-style: none;
